@@ -6,26 +6,32 @@ import classes from "./AvailableMeals.module.css";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
+    name: "Tangy Jalapino",
+    description: "Tangy and juicy. Beef or Chicken",
     price: 22.99,
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
+    name: "Cheesy Mushroom",
+    description: "Cheesy and Meaty. Beef or Chicken",
     price: 16.5,
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
-    description: "American, raw, meaty",
+    name: "Signature",
+    description: "Burger Cottege's Specialty beef only",
     price: 12.99,
   },
   {
     id: "m4",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
+    name: "Classic",
+    description: "Classic veggies with Beef or Chicken",
+    price: 18.99,
+  },
+  {
+    id: "m5",
+    name: "The BBQ-UED",
+    description: "Classic smoky flavour beef only",
     price: 18.99,
   },
 ];
